@@ -1,0 +1,23 @@
+# Virtual environment
+env/
+game/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS files
+.DS_Store
+
+# Other temporary files
+*.log
+*.bak
+*.swp
