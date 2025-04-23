@@ -1,6 +1,6 @@
 pygame/
 ├── env/                    # Virtual environment (ignored by Git)
-├── assets/                 # Game images
+├── assets/                 # Game images (Now no files)
 │   ├── pacman.png
 │   ├── yellow.png
 │   ├── red.png
